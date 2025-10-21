@@ -61,3 +61,4 @@ if st.button("predict"):
 # simply maile PCA ani cluster ani transform yo tyo bhanda
 # cluster ma paila x model banaye ra input data diye ani teslai nai model.fit(x)banaye ra pickle file banaye ani bhayo 
 
+st.write("this model is done by Mahesh Thapa")
